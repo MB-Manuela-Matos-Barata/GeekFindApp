@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561708302101",
+    "project_id": "geekfind01",
+    "storage_bucket": "geekfind01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561708302101:android:99d9f606f1c7991287731c",
+        "android_client_info": {
+          "package_name": "com.manuelamb.geek_find_projeto.geek_find_projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsmq6hjEEgZvqNVLWcWFXgfMxV8a84xTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
