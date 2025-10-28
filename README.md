@@ -13,3 +13,18 @@ Todos os direitos reservados.
 É expressamente proibido o uso, cópia, modificação, distribuição ou
 exploração comercial deste software e sua documentação, no todo ou em parte,
 sem a permissão prévia por escrito do autor.
+
+
+# geek_find_project
+
+Integrated Project - App I'm developing called GeekFind.
+
+**GeekFind** is an academic project developed as part of my TESP Informatics degree, representing my journey in learning Android development and implementing intelligent systems. The application functions as a sort of "GoodReads for games," where the main objective is to recommend titles based on the user's favorite games, using matching algorithms that analyze preferences and suggest similar options aligned with each player's profile.
+
+Beyond the core automated recommendation system, the platform is designed to evolve with social features that enhance the user experience. Among the planned improvements are the implementation of a comments and reviews system, where users themselves can share their opinions and ratings about games, creating an engaged community. Also planned is the development of community recommendations, allowing players to suggest titles to each other, and the creation of personalized lists that can be shared publicly. These additional features would transform GeekFind not just into an automated discovery tool, but into a collaborative platform where the community actively participates in the recommendation process.
+
+Copyright (c) 2025 Manuela Matos Barata.
+
+All rights reserved.
+
+The use, copy, modification, distribution, or commercial exploitation of this software and its documentation, in whole or in part, is expressly prohibited without prior written permission from the author.
